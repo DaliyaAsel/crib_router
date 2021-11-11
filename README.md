@@ -1,4 +1,4 @@
-# vue-cli_project
+# vue-router_project
 
 ## Project setup
 ```
